@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>training</folder>
+	<filename>data123.jpeg</filename>
+	<path>C:\testtf\models\research\object_detection\images\training\data123.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>613</width>
+		<height>811</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tahilalat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>454</ymin>
+			<xmax>325</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>
